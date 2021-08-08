@@ -1,0 +1,25 @@
+
+*{
+    margin-top: 10px;
+}
+
+
+h1{
+    color: blue;
+}
+
+.p-c-a{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.logo-header{
+    width: 100px;
+    height: 100px;
+}
+
+.img-punto-banner{
+    width: 500px;
+    height: 300px;
+}
