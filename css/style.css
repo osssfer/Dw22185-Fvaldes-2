@@ -39,3 +39,17 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+/* Estilo botenes  */
+button{
+    width: 250px;
+    height: 30px;
+    background-color:cornflowerblue;
+    font-size: 14px;
+    border: darkblue ;
+    border-radius: 10%;
+}
+/* Banner Principal */
+.top-banner{
+    width: 760px;
+    height: 360px;
+}
