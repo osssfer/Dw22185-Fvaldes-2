@@ -1,7 +1,7 @@
 CoderHouse
-Desarrpllo Web - 22185
+Desarrollo Web - 22185
 
-Fernando Valdes
+Fernando Valdes R.
 
 Entrega 3 y 4
 AGREGANDO CSS A NUESTRO HTML
