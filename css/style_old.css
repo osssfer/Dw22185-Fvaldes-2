@@ -1,0 +1,109 @@
+/* PROPIEDADES GENERALES */
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:white;
+}
+p{
+    font-size: 18px;
+    color:#4e4a4a;
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 32px;
+}
+
+
+/*Colores*/
+
+.h2-section{
+    color: black;
+}
+
+
+/* NAVBAR */
+
+.menu-bar {
+    background-color:whitesmoke;
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  
+  .item {
+    color: white;
+    background-color: transparent;
+    font-size: 18px;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 14px 20px;
+  }
+  
+  .item.logo img {
+    width: 50px;
+    height: 50px;
+
+  }
+  .item a{
+      color:black;
+  }
+  
+  .item:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+
+/* FLEX CONTAINERS */
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    box-sizing: border-box;
+    margin: 0px -10px;
+    background-color: white;
+  }
+  
+  .col {
+    box-sizing: border-box;
+    width: 50%;
+    margin-bottom: 20px;
+    padding: 0px 10px;
+  }
+  
+  .content {
+    color: #242424;
+    background-color: white;
+    font-weight: 600;
+    text-align: center;
+    box-sizing: border-box;
+    height: 100%;
+    padding: 10px;
+  }
+
+
+/* PROPIEDADES DE IMAGENES*/
+
+  .img-call-action{
+    width: 80%;
+    border-radius: 50%;
+    
+  }
+  .img-puntos{
+      width: 200px;
+      height: 200px;
+  }
+
+  button{
+      
+      height: 50px;
+      width: 400px;
+      background-color: black;
+  }
+  button a{
+      color:whitesmoke;
+      font-size: 18px;
+  }
