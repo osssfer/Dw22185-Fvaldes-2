@@ -114,7 +114,7 @@ section p{
 }
 
 .call-action .call-action-img{
-    background-image:url(/img/banner_principal.jpg);
+    background-image:url('https://github.com/osssfer/Dw22185-Fvaldes-2/blob/main/img/banner_principal.jpg?raw=true');
     position: absolute;
     top:0;
     left: 0;
